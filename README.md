@@ -71,8 +71,7 @@ O projeto implementa os seguintes algoritmos:
 ```
 ├── notebook_projeto_sprint13.ipynb  # Notebook principal
 ├── gym_churn_us.csv                 # Dataset
-├── README.md                        # Documentação
-└── requirements.txt                 # Dependências
+└── README.md                        # Documentação
 ```
 
 ## 📄 Licença
