@@ -67,13 +67,6 @@ O projeto implementa os seguintes algoritmos:
 2. Instale as dependências: `pip install pandas numpy matplotlib seaborn scikit-learn scipy`
 3. Execute o notebook Jupyter: `jupyter notebook notebook_projeto_sprint13.ipynb`
 
-## 📁 Estrutura do Projeto
-```
-├── notebook_projeto_sprint13.ipynb  # Notebook principal
-├── gym_churn_us.csv                 # Dataset
-└── README.md                        # Documentação
-```
-
 ## 📄 Licença
 Este projeto é para fins educacionais.
 
